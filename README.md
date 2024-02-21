@@ -6,9 +6,7 @@ This uses a tool called Maizzle to build these templates with Tailwind. It's a s
 
 Maizzle documentation is available at https://maizzle.com
 
-## Demo
-
-You can see a live demo of the templates at [https://interviews.so/templates](https://interviews.so/templates).
+![Light Confirm Sign Up](./resources/images/light.png) ![Dark Confirm Sign Up](./resources/images/dark.png)
 
 ## Development
 
