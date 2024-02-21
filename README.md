@@ -6,10 +6,10 @@ This uses a tool called Maizzle to build these templates with Tailwind. It's a s
 
 Maizzle documentation is available at https://maizzle.com
 
-<center>
-  <img src="./resources/images/light.png" alt="Light Confirm Sign Up" width="250" />
+<p align="center">
+  <img src="./resources/images/light.png" alt="Light Confirm Sign Up" width="250" /> 
   <img src="./resources/images/dark.png" alt="Dark Confirm Sign Up" width="250"/>
-</center>
+</p>
 
 ## Development
 
